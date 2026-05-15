@@ -1,42 +1,5 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-15T21:42:30.607Z",
-  "extensions": [
-    {
-      "id": "arrancador",
-      "name": "Arrancador",
-      "description": "Игровая библиотека",
-      "author": "Kazui",
-      "version": "0.1.0",
-      "keplerApiVersion": "^1.0.0",
-      "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/arrancador/icon.png",
-      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/arrancador-v0.1.0/arrancador-0.1.0.kext",
-      "sha256": "2f983ea7f953df1eda7c81221a966e997dfde2d164697b7a8472e2bfd6f6537d",
-      "size": 3554362
-    },
-    {
-      "id": "delphi",
-      "name": "Delphi",
-      "description": "Менеджер задач",
-      "author": "Kazui",
-      "version": "0.1.0",
-      "keplerApiVersion": "^1.0.0",
-      "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/delphi/icon.png",
-      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/delphi-v0.1.0/delphi-0.1.0.kext",
-      "sha256": "0637b90efdf811e1056b087eed216e5326dd57d9565169ba60b926e3df43508a",
-      "size": 7317249
-    },
-    {
-      "id": "horologion",
-      "name": "Horologion",
-      "description": "Трекер времени и pomodoro",
-      "author": "Kazui",
-      "version": "0.1.0",
-      "keplerApiVersion": "^1.0.0",
-      "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/horologion/icon.png",
-      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/horologion-v0.1.0/horologion-0.1.0.kext",
-      "sha256": "720cfe061ecf88b92056321f325430a2e22c1dc6254e7f5182436470f510aab2",
-      "size": 3918018
-    }
-  ]
+  "updatedAt": "2026-05-15T22:26:59.745Z",
+  "extensions": []
 }
