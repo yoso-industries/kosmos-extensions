@@ -1,0 +1,16 @@
+{
+  "id": "arrancador",
+  "name": "Arrancador",
+  "version": "0.1.0",
+  "description": "Игровая библиотека",
+  "author": "Kazui",
+  "keplerApiVersion": "^1.0.0",
+  "kind": "vue",
+  "icon": "icon.png",
+  "entryHtml": "dist/index.html",
+  "devPort": 5183,
+  "width": 1280,
+  "height": 800,
+  "minWidth": 900,
+  "minHeight": 600
+}

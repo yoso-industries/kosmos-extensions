@@ -1,0 +1,16 @@
+{
+  "id": "horologion",
+  "name": "Horologion",
+  "version": "0.1.0",
+  "description": "Трекер времени и pomodoro",
+  "author": "Kazui",
+  "keplerApiVersion": "^1.0.0",
+  "kind": "vue",
+  "icon": "icon.png",
+  "entryHtml": "dist/index.html",
+  "devPort": 5181,
+  "width": 480,
+  "height": 560,
+  "minWidth": 320,
+  "minHeight": 280
+}

@@ -1,0 +1,16 @@
+{
+  "id": "delphi",
+  "name": "Delphi",
+  "version": "0.1.0",
+  "description": "Менеджер задач",
+  "author": "Kazui",
+  "keplerApiVersion": "^1.0.0",
+  "kind": "vue",
+  "icon": "icon.png",
+  "entryHtml": "dist/index.html",
+  "devPort": 5182,
+  "width": 1100,
+  "height": 720,
+  "minWidth": 800,
+  "minHeight": 500
+}
