@@ -1,3 +1,3 @@
 ﻿# kosmos-extensions
 
-Raycast-style marketplace for Kosmos extensions.
+Marketplace for Kosmos extensions.
