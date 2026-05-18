@@ -1,5 +1,54 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-15T22:26:59.745Z",
-  "extensions": []
+  "updatedAt": "2026-05-18T11:06:56.847Z",
+  "extensions": [
+    {
+      "id": "arrancador",
+      "name": "Arrancador",
+      "description": "Игровая библиотека",
+      "author": "Kazui",
+      "version": "0.1.1",
+      "keplerApiVersion": "^1.0.0",
+      "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/arrancador/icon.png",
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/arrancador-v0.1.1/arrancador-0.1.1.kext",
+      "sha256": "f146d3f3958cfa43e87d84f3b7238e1c7a2107cf4037024df227db7992dfb9d8",
+      "size": 3628962
+    },
+    {
+      "id": "delphi",
+      "name": "Delphi",
+      "description": "Менеджер задач",
+      "author": "Kazui",
+      "version": "0.1.1",
+      "keplerApiVersion": "^1.0.0",
+      "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/delphi/icon.png",
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/delphi-v0.1.1/delphi-0.1.1.kext",
+      "sha256": "c28ebed2ea6e27311ca42ea3d4d8e21638f72e2798da74a1df7dc1b22e6440a3",
+      "size": 7321690
+    },
+    {
+      "id": "eden",
+      "name": "Eden",
+      "description": "Заметки, дневник, мысли — TipTap editor + ARK objects",
+      "author": "Kazui",
+      "version": "0.1.0",
+      "keplerApiVersion": "^1.0.0",
+      "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/eden/icon.png",
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/eden-v0.1.0/eden-0.1.0.kext",
+      "sha256": "5517da1d15a8091ee0c199f6903b6a01ced4d6a8c7430cbe4253b30bbc80842b",
+      "size": 8307495
+    },
+    {
+      "id": "horologion",
+      "name": "Horologion",
+      "description": "Трекер времени и pomodoro",
+      "author": "Kazui",
+      "version": "0.1.2",
+      "keplerApiVersion": "^1.0.0",
+      "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/horologion/icon.png",
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/horologion-v0.1.2/horologion-0.1.2.kext",
+      "sha256": "a77c3ed27ade2231332a2f70f3e4912f898bb9913cfcec2ca798ea8938b89b7b",
+      "size": 3921936
+    }
+  ]
 }
