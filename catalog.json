@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-19T12:27:39.914Z",
+  "updatedAt": "2026-05-19T12:50:59.449Z",
   "extensions": [
     {
       "id": "arrancador",
@@ -31,12 +31,12 @@
       "name": "Eden",
       "description": "Заметки, дневник, мысли — TipTap editor + ARK objects",
       "author": "Kazui",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "keplerApiVersion": "^1.1.0",
       "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/eden/icon.png",
-      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/eden-v0.1.4/eden-0.1.4.kext",
-      "sha256": "d19dba218cdf112c5b7de502fa502d6a71c665a8909828b1da6a1526e6f37786",
-      "size": 6070224
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/eden-v0.1.5/eden-0.1.5.kext",
+      "sha256": "8500448177f88dfacff5c1050f2cd49f4f829ab283c38df15f8ac58544e3547e",
+      "size": 6070204
     },
     {
       "id": "horologion",
