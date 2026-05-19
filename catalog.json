@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-19T15:08:04.433Z",
+  "updatedAt": "2026-05-19T16:43:52.770Z",
   "extensions": [
     {
       "id": "arrancador",
@@ -43,12 +43,12 @@
       "name": "Horologion",
       "description": "Трекер времени и pomodoro",
       "author": null,
-      "version": "0.1.3",
+      "version": "0.1.4",
       "keplerApiVersion": "^1.1.0",
       "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/horologion/icon.png",
-      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/horologion-v0.1.3/horologion-0.1.3.kext",
-      "sha256": "0cec9c4fe67eaa369904fe233365073c4bbb9e500529162067aebc661a8dee62",
-      "size": 4449105
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/horologion-v0.1.4/horologion-0.1.4.kext",
+      "sha256": "6d42912ad6018610b19cd14974f10f3d11a5bdcace53adef32a2acb8305c65c8",
+      "size": 4446529
     }
   ]
 }
