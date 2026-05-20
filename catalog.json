@@ -1,54 +1,54 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-19T16:43:52.770Z",
+  "updatedAt": "2026-05-20T16:53:05.071Z",
   "extensions": [
     {
       "id": "arrancador",
       "name": "Arrancador",
       "description": "Игровая библиотека",
       "author": null,
-      "version": "0.1.2",
+      "version": "0.1.3",
       "keplerApiVersion": "^1.1.0",
       "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/arrancador/icon.png",
-      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/arrancador-v0.1.2/arrancador-0.1.2.kext",
-      "sha256": "1b8b80dd9537fd3b9d0df75273a7a6ee22ccb8d8f6f9f99d4429e9b90148c94f",
-      "size": 4148546
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/arrancador-v0.1.3/arrancador-0.1.3.kext",
+      "sha256": "1e274a2ebc2286b331dbd382fda9a458d573321bedcf9f55f7e6e78f9c218bda",
+      "size": 4152716
     },
     {
       "id": "delphi",
       "name": "Delphi",
       "description": "Менеджер задач",
       "author": null,
-      "version": "0.1.2",
+      "version": "0.1.3",
       "keplerApiVersion": "^1.1.0",
       "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/delphi/icon.png",
-      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/delphi-v0.1.2/delphi-0.1.2.kext",
-      "sha256": "62274c6fc12c42caf75383169d55002c13bf2b4f5ed2cb5390aa320a3770c1e9",
-      "size": 7837814
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/delphi-v0.1.3/delphi-0.1.3.kext",
+      "sha256": "3a1a3e62efa9400cecc59d3731b43426a86236ee38e4b0d652d1ebe83ed4d128",
+      "size": 7844994
     },
     {
       "id": "eden",
       "name": "Eden",
       "description": "Заметки, дневник, мысли — TipTap editor + ARK objects",
       "author": null,
-      "version": "0.1.7",
+      "version": "0.1.8",
       "keplerApiVersion": "^1.1.0",
       "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/eden/icon.png",
-      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/eden-v0.1.7/eden-0.1.7.kext",
-      "sha256": "e76c2c316a41ccd56516e430052257b916bbfdaf6e55a1ce1849b769975fdbbc",
-      "size": 6071046
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/eden-v0.1.8/eden-0.1.8.kext",
+      "sha256": "d6e59fd1b829b14b6436406650a81c9f6b8d4efe2416d4f1d38d8946750362b5",
+      "size": 6099190
     },
     {
       "id": "horologion",
       "name": "Horologion",
       "description": "Трекер времени и pomodoro",
       "author": null,
-      "version": "0.1.4",
+      "version": "0.1.5",
       "keplerApiVersion": "^1.1.0",
       "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/horologion/icon.png",
-      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/horologion-v0.1.4/horologion-0.1.4.kext",
-      "sha256": "6d42912ad6018610b19cd14974f10f3d11a5bdcace53adef32a2acb8305c65c8",
-      "size": 4446529
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/horologion-v0.1.5/horologion-0.1.5.kext",
+      "sha256": "3b7c221c3acb72b2be24a31b40d8d18f1e74bc51e4cbee706c104f678d0ec4a5",
+      "size": 4450564
     }
   ]
 }
