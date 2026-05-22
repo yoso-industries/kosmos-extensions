@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-20T23:32:48.999Z",
+  "updatedAt": "2026-05-22T00:20:08.127Z",
   "extensions": [
     {
       "id": "arrancador",
@@ -19,24 +19,24 @@
       "name": "Delphi",
       "description": "Менеджер задач",
       "author": null,
-      "version": "0.1.4",
+      "version": "0.1.5",
       "keplerApiVersion": "^1.1.0",
       "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/delphi/icon.png",
-      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/delphi-v0.1.4/delphi-0.1.4.kext",
-      "sha256": "034da1a18e564a49a46191cbfe4ad219e4caad129b476371af509806ee178c17",
-      "size": 7845040
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/delphi-v0.1.5/delphi-0.1.5.kext",
+      "sha256": "81884395b086f8c56e4e653ef70e9bac69baa09454dbef74a08c04f20c33c514",
+      "size": 7845814
     },
     {
       "id": "eden",
       "name": "Eden",
       "description": "Заметки, дневник, мысли — TipTap editor + ARK objects",
       "author": null,
-      "version": "0.1.9",
+      "version": "0.1.10",
       "keplerApiVersion": "^1.1.0",
       "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/eden/icon.png",
-      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/eden-v0.1.9/eden-0.1.9.kext",
-      "sha256": "df538e8ad3cfb7f812e783001cc24a545755d87e732397999662cb419dcf50cd",
-      "size": 6103548
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/eden-v0.1.10/eden-0.1.10.kext",
+      "sha256": "3876f3c318ad4157bb8eda13ffb0fb24395045d365cf69eb3b26ea69ee15d95f",
+      "size": 6116285
     },
     {
       "id": "horologion",
