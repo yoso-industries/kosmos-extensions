@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-22T00:20:08.127Z",
+  "updatedAt": "2026-05-22T11:00:28.776Z",
   "extensions": [
     {
       "id": "arrancador",
@@ -31,24 +31,24 @@
       "name": "Eden",
       "description": "Заметки, дневник, мысли — TipTap editor + ARK objects",
       "author": null,
-      "version": "0.1.10",
+      "version": "0.1.11",
       "keplerApiVersion": "^1.1.0",
       "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/eden/icon.png",
-      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/eden-v0.1.10/eden-0.1.10.kext",
-      "sha256": "3876f3c318ad4157bb8eda13ffb0fb24395045d365cf69eb3b26ea69ee15d95f",
-      "size": 6116285
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/eden-v0.1.11/eden-0.1.11.kext",
+      "sha256": "7960297700cac3b533b8972392c04609d466e7b72a083013cc2060836fac27cb",
+      "size": 6117392
     },
     {
       "id": "horologion",
       "name": "Horologion",
       "description": "Трекер времени и pomodoro",
       "author": null,
-      "version": "0.1.5",
+      "version": "0.1.6",
       "keplerApiVersion": "^1.1.0",
       "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/horologion/icon.png",
-      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/horologion-v0.1.5/horologion-0.1.5.kext",
-      "sha256": "3b7c221c3acb72b2be24a31b40d8d18f1e74bc51e4cbee706c104f678d0ec4a5",
-      "size": 4450564
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/horologion-v0.1.6/horologion-0.1.6.kext",
+      "sha256": "fda39db4554f63e8655ac5c539e67327db82f6ad5a80f498505201783adb421e",
+      "size": 4450858
     }
   ]
 }
