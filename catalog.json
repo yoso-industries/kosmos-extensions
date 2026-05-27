@@ -1,7 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-22T11:00:28.776Z",
+  "updatedAt": "2026-05-27T11:27:23.211Z",
   "extensions": [
+    {
+      "id": "akasha",
+      "name": "Akasha",
+      "description": "Нативная EPUB-читалка на GPUI",
+      "author": null,
+      "version": "0.1.0",
+      "keplerApiVersion": "^1.1.0",
+      "iconUrl": "https://raw.githubusercontent.com/yoso-industries/kosmos-extensions/main/extensions/akasha/icon.svg",
+      "downloadUrl": "https://github.com/yoso-industries/kosmos-extensions/releases/download/akasha-v0.1.0/akasha-0.1.0.kext",
+      "sha256": "7d1b404e10572ed308d8148b52c555af64ced1962e0ad3a512911d9a61a0d68d",
+      "size": 17515635
+    },
     {
       "id": "arrancador",
       "name": "Arrancador",
